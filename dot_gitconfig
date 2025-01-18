@@ -1,0 +1,7 @@
+[user]
+	name = Nakamura hakata
+	email = nakamura_hakata@gmail.com
+[init]
+	defaultBranch = main
+[core]
+	editor = vim
